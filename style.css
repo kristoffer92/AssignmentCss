@@ -139,6 +139,7 @@
     /*Modify the second paragraph in ArticleLeft*/
     .twoP{
         font-weight: bold;
+        color: blue;
     }
     
     
